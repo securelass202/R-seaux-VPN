@@ -71,4 +71,5 @@ Un **VPN (Virtual Private Network)** est une technologie qui permet de **créer 
 - Activer le **Kill Switch** (coupure d’urgence si la connexion VPN échoue).
 
 ---
+![Image](https://github.com/user-attachments/assets/412e7770-7794-4024-b8d6-125aa105a760)
 
